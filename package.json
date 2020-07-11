@@ -13,6 +13,8 @@
     "gen": "npx plop"
   },
   "dependencies": {
+    "chokidar": "^3.4.0",
+    "npm-registry-fetch": "^8.1.2",
     "office-ui-fabric-react": "^7.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
